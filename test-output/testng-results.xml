@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60082" started-at="2018-03-07T06:01:49Z" finished-at="2018-03-07T06:02:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60082" started-at="2018-03-07T06:01:49Z" finished-at="2018-03-07T06:02:49Z">
+      <class name="com.sele.IffcoTower.Login">
+        <test-method status="PASS" signature="runurl()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="runurl" duration-ms="31969" started-at="2018-03-07T11:31:49Z" finished-at="2018-03-07T11:32:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runurl -->
+        <test-method status="PASS" signature="healthinsuarnce()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="healthinsuarnce" duration-ms="639" started-at="2018-03-07T11:32:21Z" finished-at="2018-03-07T11:32:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthinsuarnce -->
+        <test-method status="PASS" signature="familyheal()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="familyheal" duration-ms="3954" started-at="2018-03-07T11:32:22Z" finished-at="2018-03-07T11:32:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- familyheal -->
+        <test-method status="PASS" signature="buy()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="buy" duration-ms="1639" started-at="2018-03-07T11:32:26Z" finished-at="2018-03-07T11:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buy -->
+        <test-method status="PASS" signature="form()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="form" duration-ms="11994" started-at="2018-03-07T11:32:28Z" finished-at="2018-03-07T11:32:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- form -->
+        <test-method status="PASS" signature="deta()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="deta" duration-ms="3241" started-at="2018-03-07T11:32:40Z" finished-at="2018-03-07T11:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deta -->
+        <test-method status="PASS" signature="nomi()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="nomi" duration-ms="3771" started-at="2018-03-07T11:32:43Z" finished-at="2018-03-07T11:32:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nomi -->
+        <test-method status="PASS" signature="click()[pri:0, instance:com.sele.IffcoTower.Login@523884b2]" name="click" duration-ms="2820" started-at="2018-03-07T11:32:47Z" finished-at="2018-03-07T11:32:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+      </class> <!-- com.sele.IffcoTower.Login -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
